@@ -9,3 +9,4 @@
 - orchid_pos.txt จากคลังข้อมูล orchid https://www.nectec.or.th/corpus/ เมื่อ 1 ส.ค. 2019
 - fb_wordlist.txt จาก MUSE bilingual dictionary โหลดได้ที่ https://github.com/korakot/thainlp/ เมื่อ 1 ส.ค. 2019
 - royin54.txt เป็นคำศัพท์จากพจนานุกรม ฉบับราชบัณฑิตยสถาน พ.ศ.๒๕๕๔ โดยดึงตาม royin.ipynb เมื่อ 2 ส.ค. 2019
+- ttc.txt เป็นคำที่ได้จากโครงการ Thai Textbook Corpus (www.arts.chula.ac.th/~ling/TTC/) โหลดได้ที่ https://github.com/korakot/thainlp/ เมื่อ 2 ส.ค. 2019
