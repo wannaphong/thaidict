@@ -8,3 +8,4 @@
 - ox_words.txt รายการคำจาก พจนานุกรม Oxford TH->EN จาก https://www.facebook.com/groups/thainlp/permalink/408340316214131/ เมื่อ 1 ส.ค. 2019
 - orchid_pos.txt จากคลังข้อมูล orchid https://www.nectec.or.th/corpus/ เมื่อ 1 ส.ค. 2019
 - fb_wordlist.txt จาก MUSE bilingual dictionary โหลดได้ที่ https://github.com/korakot/thainlp/ เมื่อ 1 ส.ค. 2019
+- royin54.txt เป็นคำศัพท์จากพจนานุกรม ฉบับราชบัณฑิตยสถาน พ.ศ.๒๕๕๔ โดยดึงตาม royin.ipynb เมื่อ 2 ส.ค. 2019
