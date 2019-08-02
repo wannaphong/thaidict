@@ -14,4 +14,5 @@
 - naist.txt เป็นรายการคำที่ได้จาก naist corpus ของ มก.
 - LOTUS-BN.txt เป็นรายการคำที่ได้จาก LOTUS-BN ของเนคเทค https://www.nectec.or.th/corpus/ เมื่อ 2 ส.ค. 2019
 - libthai.txt เป็น Dict ที่ได้มาจาก libthai https://github.com/tlwg/libthai/tree/6ffc7abfdbcda8aec6d7833b7a490ab9686f4c33  เมื่อ 2 ส.ค. 2019
-- nectec.txt เป็น Dict ที่ได้มาจาก libthai https://github.com/tlwg/libthai/tree/6ffc7abfdbcda8aec6d7833b7a490ab9686f4c33  เมื่อ 2 ส.ค. 2019
+- nectec.txt เป็น Dict ที่ได้มาจาก libthai https://github.com/tlwg/libthai/tree/6ffc7abfdbcda8aec6d7833b7a490ab9686f4c33 เมื่อ 2 ส.ค. 2019
+- thai-national-historical-corpus-1.txt เป็นรายการคำศัพท์ที่ได้จาก thai national historical corpus เวชั่น 1 จาก https://www.floydhub.com/pattt/datasets/thai-national-historical-corpus เมื่อ 2 ส.ค. 2019
