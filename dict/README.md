@@ -12,3 +12,4 @@
 - ttc.txt เป็นคำที่ได้จากโครงการ Thai Textbook Corpus (www.arts.chula.ac.th/~ling/TTC/) โหลดได้ที่ https://github.com/korakot/thainlp/ เมื่อ 2 ส.ค. 2019
 - totalDict-kucut.txt เป็นรายการคำที่ได้จากตัวตัดคำ kucut ของ มก. โหลดได้จาก https://bitbucket.org/veer66/kucut/src/default/kucut/dict/ เมื่อ 2 ส.ค. 2019
 - naist.txt เป็นรายการคำที่ได้จาก naist corpus ของ มก.
+- LOTUS-BN.txt เป็นรายการคำที่ได้จาก LOTUS-BN ของเนคเทค https://www.nectec.or.th/corpus/ เมื่อ 2 ส.ค. 2019
