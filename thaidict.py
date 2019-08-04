@@ -19,6 +19,7 @@ def clean(word):
         and isThai(word)
         and "\t" not in word
         and ".." not in word
+        and word.startswith("์") == False
         and word.isdecimal() == False 
         and word.isnumeric() == False
         and word.isspace() == False 
